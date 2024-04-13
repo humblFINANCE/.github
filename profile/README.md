@@ -8,7 +8,7 @@ At humblFINANCE, we believe in making financial management accessible to everyon
 
 ## Our Technology 🛠️💻
 
-- **Frontend Magic**: Our website's heart beats with the help of @Codebase, ensuring a seamless and responsive user experience. 🌟
+- **Frontend Magic**: Our website's heart beats with the help of a hyper-modern web stack, ensuring a seamless and responsive user experience. 🌟
 - **Security First**: We prioritize your security, employing the latest in encryption and secure practices. 🔒
 - **AI and ML**: Leveraging artificial intelligence and machine learning to provide personalized financial advice. 🤖🧠
 
